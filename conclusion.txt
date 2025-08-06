@@ -1,0 +1,28 @@
+✅ Conclusion
+
+This is a phishing email using:
+
+    Email spoofing
+
+    Urgent language
+
+    Fake domain & insecure link
+
+    Suspicious attachment
+
+    Social engineering tactics
+
+If a user clicked that link or opened the PDF, they’d likely get redirected to a fake Netflix login page — and their credentials would be stolen.
+💡 What I Learned
+
+    This task made me realize how convincing phishing emails can look, especially if you're not trained to spot small signs. Even the sender name and logos were faked — but just hovering over the link or checking the domain gives it away. The header analysis was especially cool — SPF and DKIM checks are powerful tools.
+
+🛠️ Tools I Used
+
+    Email client
+
+    MXToolbox Email Header Analyzer
+
+    Hover inspection (check link destination)
+
+    Some research 

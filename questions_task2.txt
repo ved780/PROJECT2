@@ -1,0 +1,47 @@
+Interview Questions and Answers - Phishing Awareness
+
+1. What is phishing?
+Phishing is a type of cyberattack where attackers trick people into revealing sensitive information (like passwords or credit card details) by pretending to be a trusted source, usually through fake emails or websites.
+
+2. How to identify a phishing email?
+- Suspicious or misspelled sender address
+- Urgent or threatening language ("Act now!")
+- Mismatched or fake links (hover to inspect)
+- Unexpected attachments
+- Poor grammar or generic greetings ("Dear user")
+- Requests for personal or financial info
+
+3. What is email spoofing?
+Email spoofing is when an attacker forges the sender's address to make the email look like it's from someone trusted (e.g., a company or a colleague), even though it’s not.
+
+4. Why are phishing emails dangerous?
+They can:
+- Steal personal or financial data
+- Spread malware or ransomware
+- Lead to identity theft
+- Compromise accounts or systems
+
+5. How can you verify the sender’s authenticity?
+- Check the sender’s full email address (not just the name)
+- Use “Show original” or header analysis to confirm the source
+- Look for domain mismatches or authentication failures (SPF/DKIM)
+- Contact the sender through official channels if unsure
+
+6. What tools can analyze email headers?
+- MXToolbox
+- Google Admin Toolbox
+- Mailheader.org
+- Email clients with advanced header view (like Outlook or Thunderbird)
+
+7. What actions should be taken on suspected phishing emails?
+- Do not click links or download attachments
+- Report it (to IT, Google, Outlook, etc.)
+- Mark as spam/phishing
+- Delete it
+- If clicked, change passwords and run antivirus scan
+
+8. How do attackers use social engineering in phishing?
+They exploit human psychology — urgency, fear, trust — to trick users into clicking, downloading, or entering credentials. Common tactics include:
+- Fake account suspension warnings
+- Fake invoices
+- Fake tech support or HR emails
