@@ -1,0 +1,16 @@
+From: Netflix Support <netflix-support@secure-mail.online>
+Subject: Action Required: Payment Failure – Update Billing Info
+Date: August 4, 2025
+
+Hello,
+
+We were unable to process your latest payment. Your membership will be suspended unless your billing information is updated within the next 24 hours.
+
+To continue enjoying your favorite shows, please update your account details immediately by clicking the link below:
+
+[Update Payment Info]
+
+Thank you,
+Netflix Billing Department
+
+Attachment: billing_update_form.pdf
